@@ -3,7 +3,7 @@ body{
     font-family: 'Red Rose', cursive;
 }
 section{
-    height: 500px;
+    height:500px;
     padding-bottom: 150px;
 }
 .half-width{
@@ -62,5 +62,5 @@ background-repeat: no-repeat;
     color: white;
 }
 .footer-2{
-    color: rgb(130, 238, 135);
+    color: red;
 }
